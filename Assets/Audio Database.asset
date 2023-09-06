@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4645132edefd4c74968a0c941a98fb89, type: 3}
+  m_Name: Audio Database
+  m_EditorClassIdentifier: 
+  _items:
+  - Clip: {fileID: 8300000, guid: 51977022a028ee8469c0a87535b42c66, type: 3}
+    Key: resultMusic
+    FolderPath: Sounds\
+    Name: 275104__tuudurt__piglevelwin2.mp3
+    Preload: 1
+    _id: 0ebb1f64-364e-4f63-bb7e-866a8b3db940
+  - Clip: {fileID: 8300000, guid: 33408c0f91192934095371261299fce5, type: 3}
+    Key: trueSound
+    FolderPath: Sounds\
+    Name: dats-right.mp3
+    Preload: 1
+    _id: d50bc7f2-adac-4d60-a032-0a2993e49add
+  - Clip: {fileID: 8300000, guid: 07ac3168fa1758541b1c29c4f718adc8, type: 3}
+    Key: falseSound
+    FolderPath: Sounds\
+    Name: dats-wrong.mp3
+    Preload: 1
+    _id: 363fbfac-3b9f-474c-83e0-cc04a073adae
+  - Clip: {fileID: 8300000, guid: d97006c76507b314b933c18643543ec8, type: 3}
+    Key: clickSound
+    FolderPath: Sounds\
+    Name: button_click.mp3
+    Preload: 1
+    _id: 33733782-3704-404d-8e80-53018b4e8506
+  - Clip: {fileID: 8300000, guid: eee930f6008e9cc4abcc95cde155d968, type: 3}
+    Key: backgroundMusic
+    FolderPath: Sounds\Music\
+    Name: Anime your Music-Jojo.mp3
+    Preload: 1
+    _id: d5cdacb9-a12a-495c-86eb-8ddfab4bff77

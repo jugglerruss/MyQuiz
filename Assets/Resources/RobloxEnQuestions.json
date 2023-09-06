@@ -1,0 +1,1024 @@
+{
+  "questions": [
+    {
+      "question": "What game became the most popular in Roblox in 2020?",
+      "correctOption": 3,
+      "options": [
+        "1) Adopt Me",
+        "2) MeepCity",
+        "3) Piggy",
+        "4) Jailbreak"
+      ]
+    },
+    {
+      "question": "What is the maximum number of friends you can have in Roblox?",
+      "correctOption": 4,
+      "options": [
+        "1) 100",
+        "2) 250",
+        "3) 500",
+        "4) 200"
+      ]
+    },
+    {
+      "question": "What is the age rating of Roblox?",
+      "correctOption": 2,
+      "options": [
+        "1) EC (Early Childhood)",
+        "2) E10+ (Everyone 10 and up)",
+        "3) T (Teen)",
+        "4) M (Mature)"
+      ]
+    },
+    {
+      "question": "What is the currency used in Roblox called?",
+      "correctOption": 1,
+      "options": [
+        "1) Robux",
+        "2) Dollars",
+        "3) Coins",
+        "4) Tokens"
+      ]
+    },
+    {
+      "question": "In which year was the game Roblox released?",
+      "correctOption": 3,
+      "options": [
+        "1) 2002",
+        "2) 2004",
+        "3) 2006",
+        "4) 2008"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build and design their own virtual worlds?",
+      "correctOption": 1,
+      "options": [
+        "1) Adopt Me",
+        "2) Bloxburg",
+        "3) Arsenal",
+        "4) Phantom Forces"
+      ]
+    },
+    {
+      "question": "What annual event is held in Roblox to celebrate space-themed content?",
+      "correctOption": 3,
+      "options": [
+        "1) Roblox Developer Conference (RDC)",
+        "2) Bloxy Awards",
+        "3) Roblox Egg Hunt",
+        "4) Roblox Summer Games"
+      ]
+    },
+    {
+      "question": "What is the maximum number of players that can be in one game room in Roblox?",
+      "correctOption": 4,
+      "options": [
+        "1) 16",
+        "2) 32",
+        "3) 64",
+        "4) 100"
+      ]
+    },
+    {
+      "question": "What is the built-in programming language used in Roblox to create game scripts?",
+      "correctOption": 2,
+      "options": [
+        "1) Lua",
+        "2) JavaScript",
+        "3) Python",
+        "4) C#"
+      ]
+    },
+    {
+      "question": "Which of the listed game modes in Roblox is most popular among players?",
+      "correctOption": 3,
+      "options": [
+        "1) Simulator",
+        "2) Obby",
+        "3) Tycoon",
+        "4) PvP (Player versus Player)"
+      ]
+    },
+    {
+      "question": "Which of the listed sections in Roblox allows players to create and sell their own items?",
+      "correctOption": 2,
+      "options": [
+        "1) Games",
+        "2) Catalog",
+        "3) Avatar Shop",
+        "4) Trade System"
+      ]
+    },
+    {
+      "question": "What is the name of the game in Roblox where players can create their own theme parks?",
+      "correctOption": 3,
+      "options": [
+        "1) Tower of Hell",
+        "2) Work at a Pizza Place",
+        "3) Theme Park Tycoon 2",
+        "4) Natural Disaster Survival"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox that allows players to explore game worlds and collect eggs?",
+      "correctOption": 4,
+      "options": [
+        "1) Roblox Game Jam",
+        "2) Roblox Developers Conference (RDC)",
+        "3) Roblox Summer Games",
+        "4) Roblox Egg Hunt"
+      ]
+    },
+    {
+      "question": "Which of the listed items can be used in Roblox to customize the appearance of a character?",
+      "correctOption": 3,
+      "options": [
+        "1) Gear",
+        "2) Badge",
+        "3) Avatar Accessories",
+        "4) Emote"
+      ]
+    },
+    {
+      "question": "Which of the listed sections in Roblox allows players to create their own games?",
+      "correctOption": 4,
+      "options": [
+        "1) Avatar Shop",
+        "2) Catalog",
+        "3) Trade System",
+        "4) Roblox Studio"
+      ]
+    },
+    {
+      "question": "Which game mode in Roblox allows players to build and manage their own zoo?",
+      "correctOption": 2,
+      "options": [
+        "1) Adopt Me",
+        "2) Zoo Tycoon",
+        "3) MeepCity",
+        "4) Tower of Hell"
+      ]
+    },
+    {
+      "question": "What feature in Roblox allows players to add friends and play together with them?",
+      "correctOption": 3,
+      "options": [
+        "1) Chat",
+        "2) Voice Chat",
+        "3) Friend Request",
+        "4) Private Message"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox where players are given the opportunity to buy and collect various items?",
+      "correctOption": 1,
+      "options": [
+        "1) Roblox Black Friday Sale",
+        "2) Roblox Egg Hunt",
+        "3) Roblox Developer Conference (RDC)",
+        "4) Bloxy Awards"
+      ]
+    },
+    {
+      "question": "Which of the listed items can be used in Roblox to perform various actions in the game?",
+      "correctOption": 4,
+      "options": [
+        "1) Hat",
+        "2) T-shirt",
+        "3) Pants",
+        "4) Tool"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox where players can collect various chests and receive rewards?",
+      "correctOption": 2,
+      "options": [
+        "1) Roblox Game Jam",
+        "2) Roblox Treasure Hunt",
+        "3) Roblox Creator Challenge",
+        "4) Roblox Summer Games"
+      ]
+    },
+    {
+      "question": "What is the section in Roblox where players can create and customize their characters?",
+      "correctOption": 1,
+      "options": [
+        "1) Avatar Shop",
+        "2) Catalog",
+        "3) Trade System",
+        "4) Roblox Studio"
+      ]
+    },
+    {
+      "question": "What feature in Roblox allows players to exchange voice messages within the game?",
+      "correctOption": 4,
+      "options": [
+        "1) Chat",
+        "2) Friend Request",
+        "3) Private Message",
+        "4) Voice Chat"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox where the best games and developers are recognized and awarded?",
+      "correctOption": 3,
+      "options": [
+        "1) Roblox Game Jam",
+        "2) Roblox Egg Hunt",
+        "3) Bloxy Awards",
+        "4) Roblox Developer Conference (RDC)"
+      ]
+    },
+    {
+      "question": "Which of the listed items can be used in Roblox to express emotions and gestures?",
+      "correctOption": 1,
+      "options": [
+        "1) Emote",
+        "2) Gear",
+        "3) Badge",
+        "4) Avatar Accessories"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox where players can create and sell virtual items?",
+      "correctOption": 2,
+      "options": [
+        "1) Roblox Black Friday Sale",
+        "2) Roblox Developer Exchange (DevEx)",
+        "3) Roblox Egg Hunt",
+        "4) Roblox Builders Club"
+      ]
+    },
+    {
+      "question": "Which of the listed sections in Roblox allows players to customize their virtual homes and interiors?",
+      "correctOption": 3,
+      "options": [
+        "1) Games",
+        "2) Catalog",
+        "3) Bloxburg",
+        "4) Trade System"
+      ]
+    },
+    {
+      "question": "What feature in Roblox allows players to send private messages to other players?",
+      "correctOption": 4,
+      "options": [
+        "1) Chat",
+        "2) Voice Chat",
+        "3) Friend Request",
+        "4) Private Message"
+      ]
+    },
+    {
+      "question": "What is the event in Roblox where players can participate in various sports competitions?",
+      "correctOption": 1,
+      "options": [
+        "1) Roblox Summer Games",
+        "2) Roblox Egg Hunt",
+        "3) Bloxy Awards",
+        "4) Roblox Developer Conference (RDC)"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to battle each other in epic encounters?",
+      "correctOption": 3,
+      "options": [
+        "1) Speed Run",
+        "2) Adopt Me",
+        "3) Phantom Forces",
+        "4) Bloxburg"
+      ]
+    },
+    {
+      "question": "What genre of game is represented in 'Tower of Hell' in Roblox?",
+      "correctOption": 1,
+      "options": [
+        "1) Platformer",
+        "2) Role-playing game",
+        "3) Simulator",
+        "4) Puzzle"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build and manage their own restaurant?",
+      "correctOption": 2,
+      "options": [
+        "1) MeepCity",
+        "2) Work at a Pizza Place",
+        "3) Adopt Me",
+        "4) Jailbreak"
+      ]
+    },
+    {
+      "question": "Which of the listed items in the game 'Natural Disaster Survival' in Roblox helps players survive various natural disasters?",
+      "correctOption": 4,
+      "options": [
+        "1) Baseball Bat",
+        "2) Coins",
+        "3) Pet",
+        "4) Various Tools"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build and design their own house?",
+      "correctOption": 1,
+      "options": [
+        "1) Bloxburg",
+        "2) Arsenal",
+        "3) Phantom Forces",
+        "4) Tower of Hell"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to develop their own business and earn money?",
+      "correctOption": 2,
+      "options": [
+        "1) Tower of Hell",
+        "2) Business Simulator",
+        "3) Theme Park Tycoon 2",
+        "4) Natural Disaster Survival"
+      ]
+    },
+    {
+      "question": "Which game in Roblox offers players the opportunity to work at a pizzeria?",
+      "correctOption": 3,
+      "options": [
+        "1) Bloxburg",
+        "2) Jailbreak",
+        "3) Work at a Pizza Place",
+        "4) Phantom Forces"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build and manage their own amusement park?",
+      "correctOption": 1,
+      "options": [
+        "1) Theme Park Tycoon 2",
+        "2) Adopt Me",
+        "3) MeepCity",
+        "4) Bloxburg"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to compete in races with various vehicles?",
+      "correctOption": 4,
+      "options": [
+        "1) Adopt Me",
+        "2) Tower of Hell",
+        "3) Work at a Pizza Place",
+        "4) Vehicle Simulator"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to explore different locations, complete tasks, and earn virtual currency?",
+      "correctOption": 3,
+      "options": [
+        "1) Phantom Forces",
+        "2) Bloxburg",
+        "3) Adventure Simulator",
+        "4) Jailbreak"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build and manage their own hotel?",
+      "correctOption": 4,
+      "options": [
+        "1) MeepCity",
+        "2) Tower of Hell",
+        "3) Vehicle Simulator",
+        "4) Hotel Empire Tycoon"
+      ]
+    },
+    {
+      "question": "Which game in Roblox offers players the opportunity to become a police officer or a criminal and compete for power in the city?",
+      "correctOption": 1,
+      "options": [
+        "1) Jailbreak",
+        "2) Adventure Simulator",
+        "3) Bloxburg",
+        "4) Work at a Pizza Place"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to create their own music content and share it with other players?",
+      "correctOption": 3,
+      "options": [
+        "1) Adopt Me",
+        "2) Phantom Forces",
+        "3) Music Maker",
+        "4) Theme Park Tycoon 2"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to build their own farm and take care of animals?",
+      "correctOption": 2,
+      "options": [
+        "1) Vehicle Simulator",
+        "2) Farming Simulator",
+        "3) Tower of Hell",
+        "4) Business Simulator"
+      ]
+    },
+    {
+      "question": "Which game in Roblox allows players to go through various challenges and overcome difficulties on their way to the top?",
+      "correctOption": 4,
+      "options": [
+        "1) Work at a Pizza Place",
+        "2) Bloxburg",
+        "3) Adopt Me",
+        "4) Tower of Hell"
+      ]
+    },
+    {
+      "question": "What is the objective of the game Tower of Hell?",
+      "correctOption": 2,
+      "options": [
+        "1) Collect the maximum number of coins",
+        "2) Overcome difficult obstacles and reach the top of the tower",
+        "3) Build and design your own towers",
+        "4) Battle with other players in PvP mode"
+      ]
+    },
+    {
+      "question": "What skills are required to successfully complete Tower of Hell?",
+      "correctOption": 3,
+      "options": [
+        "1) Building and design",
+        "2) Trading and economy",
+        "3) Jumping, platforming, and reaction",
+        "4) Strategic planning and resource management"
+      ]
+    },
+    {
+      "question": "What bonuses or rewards can be obtained in the game Tower of Hell?",
+      "correctOption": 1,
+      "options": [
+        "1) Wings and other character accessories",
+        "2) Extra lives and health",
+        "3) Access to new levels and locations",
+        "4) Upgraded weapons and armor"
+      ]
+    },
+    {
+      "question": "How many levels are available in the game Tower of Hell?",
+      "correctOption": 4,
+      "options": [
+        "1) 5",
+        "2) 10",
+        "3) 15",
+        "4) More than 20"
+      ]
+    },
+    {
+      "question": "What control options does the game Tower of Hell offer?",
+      "correctOption": 2,
+      "options": [
+        "1) Keyboard and mouse",
+        "2) Keyboard and controller",
+        "3) Mouse and touch screen",
+        "4) Voice commands and movements"
+      ]
+    },
+    {
+      "question": "What type of game is Adopt Me?",
+      "correctOption": 3,
+      "options": [
+        "1) First-person shooter",
+        "2) Racing arcade",
+        "3) Pet simulation and role-playing game",
+        "4) Real-time strategy"
+      ]
+    },
+    {
+      "question": "What do you need to do in the game Adopt Me?",
+      "correctOption": 1,
+      "options": [
+        "1) Take care of pets, train them, and trade them with other players",
+        "2) Build and manage your own virtual zoo",
+        "3) Battle with other players in PvP mode",
+        "4) Create and sell virtual items"
+      ]
+    },
+    {
+      "question": "What pets are available in the game Adopt Me?",
+      "correctOption": 2,
+      "options": [
+        "1) Only dogs and cats",
+        "2) Various types of animals, including dogs, cats, dragons, unicorns, and many others",
+        "3) Only exotic animals such as tigers and elephants",
+        "4) Only fictional creatures like vampires and werewolves"
+      ]
+    },
+    {
+      "question": "What can you do with pets in the game Adopt Me?",
+      "correctOption": 3,
+      "options": [
+        "1) Play mini-games with them",
+        "2) Send them on missions and quests",
+        "3) Train them, participate in competitions, and travel together",
+        "4) Sell them on the virtual market"
+      ]
+    },
+    {
+      "question": "What interaction features are available in Adopt Me?",
+      "correctOption": 4,
+      "options": [
+        "1) Trading virtual items",
+        "2) Building cooperative game objects",
+        "3) Collaborative questing and missions",
+        "4) Trading pets and items between players"
+      ]
+    },
+    {
+      "question": "What is the game Bloxburg about?",
+      "correctOption": 2,
+      "options": [
+        "1) Racing arcade",
+        "2) Life and building simulator",
+        "3) Multiplayer strategy",
+        "4) Platformer"
+      ]
+    },
+    {
+      "question": "What role do players fulfill in Bloxburg?",
+      "correctOption": 3,
+      "options": [
+        "1) Crime fighters",
+        "2) Racers",
+        "3) Town residents who build and manage their homes and lives",
+        "4) Military personnel"
+      ]
+    },
+    {
+      "question": "What opportunities are provided to players in Bloxburg?",
+      "correctOption": 1,
+      "options": [
+        "1) Building and decorating houses, working, socializing, participating in various events",
+        "2) Battling other players in PvP mode",
+        "3) Creating and selling virtual items",
+        "4) Exploring and conquering the virtual world"
+      ]
+    },
+    {
+      "question": "How can players earn in-game currency in Bloxburg?",
+      "correctOption": 4,
+      "options": [
+        "1) Completing quests and tasks",
+        "2) Winning competitions and tournaments",
+        "3) Trading virtual items",
+        "4) Working at various virtual jobs in the city"
+      ]
+    },
+    {
+      "question": "What activities are available to players in Bloxburg?",
+      "correctOption": 2,
+      "options": [
+        "1) Traveling through the virtual world and exploring new locations",
+        "2) Working at various virtual jobs, taking care of the home and family, social interaction",
+        "3) Battling other players in PvP mode",
+        "4) Building and managing a virtual business"
+      ]
+    },
+    {
+      "question": "What role do players have in the game Work at a Pizza Place?",
+      "correctOption": 3,
+      "options": [
+        "1) Treasure hunters",
+        "2) Farmers",
+        "3) Employees at a pizza place performing various tasks",
+        "4) Astronauts"
+      ]
+    },
+    {
+      "question": "What do players need to do in the game Work at a Pizza Place?",
+      "correctOption": 1,
+      "options": [
+        "1) Prepare and deliver pizzas, manage the restaurant, serve customers",
+        "2) Work on a construction site and build buildings",
+        "3) Organize competitions and tournaments",
+        "4) Trade rare items"
+      ]
+    },
+    {
+      "question": "What opportunities does the game Work at a Pizza Place provide?",
+      "correctOption": 2,
+      "options": [
+        "1) Battles with enemies and fights",
+        "2) Working in various positions at the pizzeria, improving and decorating the premises, interacting with other players",
+        "3) Creating and selling virtual items",
+        "4) Exploring and conquering the virtual world"
+      ]
+    },
+    {
+      "question": "How can players earn in-game currency in Work at a Pizza Place?",
+      "correctOption": 4,
+      "options": [
+        "1) Participating in mini-games and PvP modes",
+        "2) Trading virtual items",
+        "3) Receiving daily bonuses and rewards",
+        "4) Working in various positions at the pizzeria and earning a salary"
+      ]
+    },
+    {
+      "question": "What items can be upgraded or acquired in Work at a Pizza Place?",
+      "correctOption": 1,
+      "options": [
+        "1) The pizzeria, pizza-making equipment, restaurant furniture",
+        "2) Weapons and armor",
+        "3) Vehicles such as cars and bicycles",
+        "4) Virtual pets"
+      ]
+    },
+    {
+      "question": "What is MeepCity?",
+      "correctOption": 2,
+      "options": [
+        "1) Puzzle game",
+        "2) Social and life simulation game",
+        "3) Action game with adventure elements",
+        "4) Real-time strategy game"
+      ]
+    },
+    {
+      "question": "What role do players assume in MeepCity?",
+      "correctOption": 3,
+      "options": [
+        "1) Police officers",
+        "2) Astronauts",
+        "3) City residents who communicate, build, and decorate their homes",
+        "4) Warriors fighting monsters"
+      ]
+    },
+    {
+      "question": "What can players do in the game MeepCity?",
+      "correctOption": 1,
+      "options": [
+        "1) Build and decorate homes, interact with other players, participate in various events",
+        "2) Battle other players in PvP mode",
+        "3) Create and sell virtual items",
+        "4) Explore and conquer the virtual world"
+      ]
+    },
+    {
+      "question": "What is a Meep in MeepCity?",
+      "correctOption": 2,
+      "options": [
+        "1) Virtual currency",
+        "2) Virtual creature, a pet that players can take care of and engage in various activities with",
+        "3) Tool for building and decorating",
+        "4) Special clothing and accessories for characters"
+      ]
+    },
+    {
+      "question": "What social interaction opportunities are available in MeepCity?",
+      "correctOption": 4,
+      "options": [
+        "1) Trading virtual items",
+        "2) Building and managing shared gameplay objects",
+        "3) Collaborative quest and mission completion",
+        "4) Communicating with other players, visiting their homes, participating in various events"
+      ]
+    },
+    {
+      "question": "What genre does the game Phantom Forces belong to?",
+      "correctOption": 2,
+      "options": [
+        "1) Puzzle game",
+        "2) First-person shooter",
+        "3) Real-time strategy",
+        "4) Role-playing game"
+      ]
+    },
+    {
+      "question": "What game modes are available in Phantom Forces?",
+      "correctOption": 4,
+      "options": [
+        "1) Single-player mode",
+        "2) Cooperative mode",
+        "3) PvP mode with teams",
+        "4) PvP mode without teams"
+      ]
+    },
+    {
+      "question": "What can players do in the game Adopt Me!?",
+      "correctOption": 3,
+      "options": [
+        "1) Build and manage a zoo",
+        "2) Explore and conquer the depths of space",
+        "3) Take care of virtual pets, train them, and trade them",
+        "4) Travel through the virtual world and complete quests"
+      ]
+    },
+    {
+      "question": "What types of weapons can be used in Phantom Forces?",
+      "correctOption": 3,
+      "options": [
+        "1) Swords and shields",
+        "2) Magical staffs and spells",
+        "3) Various types of firearms: pistols, rifles, machine guns, etc.",
+        "4) Throwing weapons such as knives and grenades"
+      ]
+    },
+    {
+      "question": "What locations are available for battles in Phantom Forces?",
+      "correctOption": 1,
+      "options": [
+        "1) Various maps, including city streets, military bases, and forested areas",
+        "2) Underwater worlds and ocean depths",
+        "3) Space stations and planets",
+        "4) Fantastic worlds with magic and monsters"
+      ]
+    },
+    {
+      "question": "What factors play a role in character development in Phantom Forces?",
+      "correctOption": 2,
+      "options": [
+        "1) Gathering and developing magical abilities",
+        "2) Gaining experience and leveling up, unlocking new weapons and accessories",
+        "3) Creating and developing one's own base or shelter",
+        "4) Improving skills in military tactics and strategy"
+      ]
+    },
+    {
+      "question": "What types of natural disasters can occur in Natural Disaster Survival?",
+      "correctOption": 1,
+      "options": [
+        "1) Earthquakes, floods, tornadoes, volcanic eruptions, etc.",
+        "2) Forest fires, snowstorms, tornadoes, and hailstorms",
+        "3) Meteor showers, earthquakes, tsunamis, and lava flows",
+        "4) Tropical hurricanes, tornadoes, sandstorms, and earthquakes"
+      ]
+    },
+    {
+      "question": "What actions should be taken to survive in Natural Disaster Survival?",
+      "correctOption": 2,
+      "options": [
+        "1) Solving puzzles and riddles",
+        "2) Avoiding hazards, seeking shelter, and surviving in disaster conditions",
+        "3) Fighting enemies and completing missions",
+        "4) Building structures and bases for protection"
+      ]
+    },
+    {
+      "question": "Which game mode is available in Natural Disaster Survival?",
+      "correctOption": 3,
+      "options": [
+        "1) Single-player mode",
+        "2) Cooperative mode",
+        "3) Multiplayer mode",
+        "4) Competitive mode"
+      ]
+    },
+    {
+      "question": "What skills are important for successful gameplay in Natural Disaster Survival?",
+      "correctOption": 4,
+      "options": [
+        "1) Quick reaction and agility",
+        "2) Strategic thinking and planning",
+        "3) Communication and collaboration with other players",
+        "4) Decision-making in critical situations"
+      ]
+    },
+    {
+      "question": "What opportunities does Theme Park Tycoon 2 provide?",
+      "correctOption": 3,
+      "options": [
+        "1) Building and managing a city",
+        "2) Fighting zombies and surviving in a post-apocalyptic world",
+        "3) Creating and managing your own theme park",
+        "4) Exploring and conquering space"
+      ]
+    },
+    {
+      "question": "What objects and attractions can be built in Theme Park Tycoon 2?",
+      "correctOption": 2,
+      "options": [
+        "1) Military bases and tank armies",
+        "2) Roller coasters, carousels, Ferris wheels, and other attractions",
+        "3) Futuristic cities and buildings",
+        "4) Farms and agricultural enterprises"
+      ]
+    },
+    {
+      "question": "What factors should be considered when managing a park in Theme Park Tycoon 2?",
+      "correctOption": 4,
+      "options": [
+        "1) Creating and developing an army",
+        "2) Mastering new technologies and research",
+        "3) Negotiating with other players and forming alliances",
+        "4) Financial aspects, visitor satisfaction, and maintaining attractions"
+      ]
+    },
+    {
+      "question": "Which game mode is available in Theme Park Tycoon 2?",
+      "correctOption": 1,
+      "options": [
+        "1) Single-player mode",
+        "2) Cooperative mode",
+        "3) Multiplayer mode",
+        "4) Competitive mode"
+      ]
+    },
+    {
+      "question": "What genre is the game Piggy?",
+      "correctOption": 2,
+      "options": [
+        "1) Platformer",
+        "2) Horror",
+        "3) Racing",
+        "4) Puzzle"
+      ]
+    },
+    {
+      "question": "Which character is the main antagonist in the game Piggy?",
+      "correctOption": 1,
+      "options": [
+        "1) Piggy",
+        "2) Bunny",
+        "3) Cat",
+        "4) Dog"
+      ]
+    },
+    {
+      "question": "What tasks do players need to accomplish in the game Piggy?",
+      "correctOption": 4,
+      "options": [
+        "1) Building and decorating a house",
+        "2) Collecting resources and crafting items",
+        "3) Battling other players in PvP mode",
+        "4) Solving puzzles and surviving Piggy's attacks"
+      ]
+    },
+    {
+      "question": "What different worlds are available for exploration in the game Piggy?",
+      "correctOption": 3,
+      "options": [
+        "1) Underwater world and ocean",
+        "2) Mountains and forests",
+        "3) School, hospital, store, and other locations",
+        "4) Space and other planets"
+      ]
+    },
+    {
+      "question": "What additional characters can players encounter in the game Piggy?",
+      "correctOption": 2,
+      "options": [
+        "1) Spider-Man and Iron Man",
+        "2) Guest, Tiger, Piggy, and others",
+        "3) Vampire and werewolf",
+        "4) Princess and prince"
+      ]
+    },
+    {
+      "question": "What genre is the game Arsenal?",
+      "correctOption": 1,
+      "options": [
+        "1) First-person shooter",
+        "2) Platformer",
+        "3) Puzzle",
+        "4) Racing"
+      ]
+    },
+    {
+      "question": "What is the main objective for players in the game Arsenal?",
+      "correctOption": 3,
+      "options": [
+        "1) Building and decorating a house",
+        "2) Collecting resources and crafting items",
+        "3) Destroying enemies and achieving victory",
+        "4) Solving puzzles and chasing high scores"
+      ]
+    },
+    {
+      "question": "How many players can participate in a match in the game Arsenal?",
+      "correctOption": 2,
+      "options": [
+        "1) 8",
+        "2) 16",
+        "3) 32",
+        "4) 64"
+      ]
+    },
+    {
+      "question": "What types of weapons are available to players in the game Arsenal?",
+      "correctOption": 4,
+      "options": [
+        "1) Only melee weapons",
+        "2) Only firearms",
+        "3) Only explosives",
+        "4) Various firearms and melee weapons"
+      ]
+    },
+    {
+      "question": "What game modes does Arsenal offer?",
+      "correctOption": 3,
+      "options": [
+        "1) Single-player and cooperative",
+        "2) Arena battles",
+        "3) Team battles and free-for-all",
+        "4) Racing and tournaments"
+      ]
+    },
+    {
+      "question": "What is the main objective for players in the game Business Simulator?",
+      "correctOption": 2,
+      "options": [
+        "1) Building and managing a city",
+        "2) Developing and managing their own business",
+        "3) Completing levels and collecting bonuses",
+        "4) Solving economic puzzles"
+      ]
+    },
+    {
+      "question": "What types of businesses are available to players in the game Business Simulator?",
+      "correctOption": 3,
+      "options": [
+        "1) Restaurants and cafes",
+        "2) Shops and supermarkets",
+        "3) Various types of businesses, including manufacturing, finance, and services",
+        "4) Online businesses only"
+      ]
+    },
+    {
+      "question": "What strategies and tactics can players use in the game Business Simulator?",
+      "correctOption": 4,
+      "options": [
+        "1) Only aggressive competition",
+        "2) Only partnership and cooperation",
+        "3) Only infrastructure development and improvement",
+        "4) Various strategies, including competition, cooperation, and development"
+      ]
+    },
+    {
+      "question": "What factors influence the success of a business in the game Business Simulator?",
+      "correctOption": 1,
+      "options": [
+        "1) Financial management, infrastructure development, and customer satisfaction",
+        "2) Only the quality of products and services",
+        "3) Only innovation and technology",
+        "4) Only advertising and marketing"
+      ]
+    },
+    {
+      "question": "What opportunities does the game Business Simulator provide for business development?",
+      "correctOption": 3,
+      "options": [
+        "1) Only opening new branches",
+        "2) Only improving existing businesses",
+        "3) Opening new types of businesses, expanding the company, and investing in various projects",
+        "4) Only purchasing shares of other companies"
+      ]
+    },
+    {
+      "question": "What is the main concept of the game Jailbreak?",
+      "correctOption": 2,
+      "options": [
+        "1) Building and managing a city",
+        "2) Escaping from prison and living a criminal life",
+        "3) Adventures in a fantasy world",
+        "4) Solving puzzles and surviving races"
+      ]
+    },
+    {
+      "question": "What roles can players take on in the game Jailbreak?",
+      "correctOption": 3,
+      "options": [
+        "1) Only police officers",
+        "2) Only prisoners",
+        "3) Either police officers or prisoners",
+        "4) Roles are not limited, players can choose any"
+      ]
+    },
+    {
+      "question": "What tasks are given to players in the game Jailbreak?",
+      "correctOption": 4,
+      "options": [
+        "1) Only building and managing a city",
+        "2) Only racing and competitions",
+        "3) Only battles with monsters and bosses",
+        "4) Various tasks, including escaping from prison, heists, hunting down criminals, etc."
+      ]
+    },
+    {
+      "question": "What opportunities does the game Jailbreak provide for players?",
+      "correctOption": 1,
+      "options": [
+        "1) Free movement in the game world, using various vehicles, participating in heists, battles with the police and other criminals",
+        "2) Only building and managing their own prisons",
+        "3) Only participating in races and competitions",
+        "4) Only creating and developing their own criminal organization"
+      ]
+    },
+    {
+      "question": "What interactive elements are present in the game Jailbreak?",
+      "correctOption": 3,
+      "options": [
+        "1) Only building and decorating",
+        "2) Only battles and PvP modes",
+        "3) Interacting with other players, using items and transportation, completing quests",
+        "4) Only solving puzzles and quests"
+      ]
+    }
+  ]
+}

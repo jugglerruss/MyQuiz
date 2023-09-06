@@ -1,0 +1,204 @@
+﻿{
+  "questions": [
+    {
+      "question": "Какая игра стала наиболее популярной в Roblox в 2020 году?",
+      "correctOption": 3,
+      "options": [
+        "1) Adopt Me",
+        "2) MeepCity",
+        "3) Piggy",
+        "4) Jailbreak"
+      ]
+    },
+    {
+      "question": "Какое максимальное количество друзей можно иметь в Roblox?",
+      "correctOption": 4,
+      "options": [
+        "1) 100",
+        "2) 250",
+        "3) 500",
+        "4) 200"
+      ]
+    },
+    {
+      "question": "Какой возрастной рейтинг имеет Roblox?",
+      "correctOption": 2,
+      "options": [
+        "1) EC (Early Childhood)",
+        "2) E10+ (Everyone 10 and up)",
+        "3) T (Teen)",
+        "4) M (Mature)"
+      ]
+    },
+    {
+      "question": "Как называется валюта, используемая в Roblox?",
+      "correctOption": 1,
+      "options": [
+        "1) Robux",
+        "2) Dollars",
+        "3) Coins",
+        "4) Tokens"
+      ]
+    },
+    {
+      "question": "В каком году была выпущена игра Roblox?",
+      "correctOption": 3,
+      "options": [
+        "1) 2002",
+        "2) 2004",
+        "3) 2006",
+        "4) 2008"
+      ]
+    },
+    {
+      "question": "Какая игра в Роблокс позволяет игрокам строить и дизайнировать свои собственные виртуальные миры?",
+      "correctOption": 1,
+      "options": [
+        "1) Adopt Me",
+        "2) Bloxburg",
+        "3) Arsenal",
+        "4) Phantom Forces"
+      ]
+    },
+    {
+      "question": "Какое мероприятие проводится ежегодно в Роблокс для празднования космической тематики?",
+      "correctOption": 3,
+      "options": [
+        "1) Roblox Developer Conference (RDC)",
+        "2) Bloxy Awards",
+        "3) Roblox Egg Hunt",
+        "4) Roblox Summer Games"
+      ]
+    },
+    {
+      "question": "Какое количество игроков могут одновременно находиться в одной игровой комнате в Роблокс?",
+      "correctOption": 4,
+      "options": [
+        "1) 16",
+        "2) 32",
+        "3) 64",
+        "4) 100"
+      ]
+    },
+    {
+      "question": "Как называется встроенный язык программирования, используемый в Роблокс для создания игровых скриптов?",
+      "correctOption": 2,
+      "options": [
+        "1) Lua",
+        "2) JavaScript",
+        "3) Python",
+        "4) C#"
+      ]
+    },
+    {
+      "question": "Какой из перечисленных игровых режимов в Роблокс наиболее популярен среди игроков?",
+      "correctOption": 3,
+      "options": [
+        "1) Simulator",
+        "2) Obby",
+        "3) Tycoon",
+        "4) PvP (Player versus Player)"
+      ]
+    },
+    {
+      "question": "Какой из перечисленных разделов в Роблокс позволяет игрокам создавать и продаавать собственные предметы?",
+      "correctOption": 2,
+      "options": [
+        "1) Games",
+        "2) Catalog",
+        "3) Avatar Shop",
+        "4) Trade System"
+      ]
+    },
+    {
+      "question": "Как называется игра в Роблокс, в которой игроки могут создавать собственные парки аттракционов?",
+      "correctOption": 3,
+      "options": [
+        "1) Tower of Hell",
+        "2) Work at a Pizza Place",
+        "3) Theme Park Tycoon 2",
+        "4) Natural Disaster Survival"
+      ]
+    },
+    {
+      "question": "Какая функция в Роблокс позволяет игрокам обмениваться сообщениями внутри игры?",
+      "correctOption": 1,
+      "options": [
+        "1) Chat",
+        "2) Voice Chat",
+        "3) Friend Request",
+        "4) Private Message"
+      ]
+    },
+    {
+      "question": "Как называется событие в Роблокс, которое позволяет игрокам исследовать игровые миры и собирать яйца?",
+      "correctOption": 4,
+      "options": [
+        "1) Roblox Game Jam",
+        "2) Roblox Developers Conference (RDC)",
+        "3) Roblox Summer Games",
+        "4) Roblox Egg Hunt"
+      ]
+    },
+    {
+      "question": "Какой из перечисленных предметов можно использовать в Роблокс для настройки внешнего вида персонажа?",
+      "correctOption": 3,
+      "options": [
+        "1) Gear",
+        "2) Badge",
+        "3) Avatar Accessories",
+        "4) Emote"
+      ]
+    },
+    {
+      "question": "Какой из перечисленных разделов в Роблокс позволяет игрокам создавать собственные игры?",
+      "correctOption": 4,
+      "options": [
+        "1) Avatar Shop",
+        "2) Catalog",
+        "3) Trade System",
+        "4) Roblox Studio"
+      ]
+    },
+    {
+      "question": "Какой игровой режим в Роблокс позволяет игрокам строить и управлять своим собственным зоопарком?",
+      "correctOption": 2,
+      "options": [
+        "1) Adopt Me",
+        "2) Zoo Tycoon",
+        "3) MeepCity",
+        "4) Tower of Hell"
+      ]
+    },
+    {
+      "question": "Какая функция в Роблокс позволяет игрокам добавлять друзей и играть вместе с ними?",
+      "correctOption": 3,
+      "options": [
+        "1) Chat",
+        "2) Voice Chat",
+        "3) Friend Request",
+        "4) Private Message"
+      ]
+    },
+    {
+      "question": "Как называется событие в Роблокс, в котором игрокам предоставляется возможность покупать и собирать различные предметы?",
+      "correctOption": 1,
+      "options": [
+        "1) Roblox Black Friday Sale",
+        "2) Roblox Egg Hunt",
+        "3) Roblox Developer Conference (RDC)",
+        "4) Bloxy Awards"
+      ]
+    },
+    {
+      "question": "Какой из перечисленных предметов можно использовать в Роблокс для выполнения различных действий в игре?",
+      "correctOption": 4,
+      "options": [
+        "1) Hat",
+        "2) T-shirt",
+        "3) Pants",
+        "4) Tool"
+      ]
+    }
+  ]
+}
